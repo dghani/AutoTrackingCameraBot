@@ -1,0 +1,3 @@
+[submodule "raspberrypi/pi-blaster"]
+	path = raspberrypi/pi-blaster
+	url = https://github.com/sarfata/pi-blaster.git
